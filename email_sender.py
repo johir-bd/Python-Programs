@@ -1,6 +1,3 @@
-# -*- coding: utf-8 -*-
-"""Email Sender.ipynb
-
 import smtplib
 from email.message import EmailMessage
 import ssl
